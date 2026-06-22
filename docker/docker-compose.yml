@@ -1,0 +1,55 @@
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://user:password@db:5432/sfmshop
+      - REDIS_URL=redis://redis:6379
+      - JWT_SECRET=your-secret-key-change-in-production
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    volumes:
+      - ../src:/app/src
+    networks:
+      - sfmshop_network
+
+  db:
+    image: postgres:15
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=sfmshop
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - sfmshop_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d sfmshop"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - sfmshop_network
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  sfmshop_network:
+    driver: bridge

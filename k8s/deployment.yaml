@@ -1,0 +1,47 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sfmshop-deployment
+  labels:
+    app: sfmshop
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: sfmshop
+  template:
+    metadata:
+      labels:
+        app: sfmshop
+    spec:
+      containers:
+      - name: app
+        image: sfmshop:latest
+        ports:
+        - containerPort: 8000
+        env:
+        - name: DATABASE_URL
+          value: "postgresql://user:password@db:5432/sfmshop"
+        - name: REDIS_URL
+          value: "redis://redis:6379"
+        - name: JWT_SECRET
+          value: "your-secret-key-change-in-production"
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+        livenessProbe:
+          httpGet:
+            path: /docs
+            port: 8000
+          initialDelaySeconds: 10
+          periodSeconds: 15
+        readinessProbe:
+          httpGet:
+            path: /docs
+            port: 8000
+          initialDelaySeconds: 5
+          periodSeconds: 10

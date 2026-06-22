@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: sfmshop-service
+  labels:
+    app: sfmshop
+spec:
+  selector:
+    app: sfmshop
+  ports:
+  - port: 80
+    targetPort: 8000
+    protocol: TCP
+    name: http
+  type: LoadBalancer
