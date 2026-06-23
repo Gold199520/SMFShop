@@ -1,3 +1,4 @@
+import httpx
 from fastapi import APIRouter, Depends, HTTPException, BackgroundTasks, Query
 import asyncpg
 from typing import List, Optional

@@ -6,7 +6,6 @@ class LogService:
     def __init__(self, log_file: str = "app.log"):
         self.logger = logging.getLogger("SFMShop")
         self.logger.setLevel(logging.DEBUG)
-        self.setup_sentry()
 
         # Формат логов
         formatter = logging.Formatter(
@@ -27,26 +26,20 @@ class LogService:
         self.logger.addHandler(file_handler)
         self.logger.addHandler(console_handler)
 
-    def debug(self, message: str, **kwargs):
-        self.logger.debug(f"{message} | {kwargs}" if kwargs else message)
+    def debug(self, message: str):
+        self.logger.debug(message)
 
-    def info(self, message: str, **kwargs):
-        self.logger.info(f"{message} | {kwargs}" if kwargs else message)
+    def info(self, message: str):
+        self.logger.info(message)
 
-    def warning(self, message: str, **kwargs):
-        self.logger.warning(f"{message} | {kwargs}" if kwargs else message)
+    def warning(self, message: str):
+        self.logger.warning(message)
 
-    def error(self, message: str, **kwargs):
-        self.logger.error(f"{message} | {kwargs}" if kwargs else message)
+    def error(self, message: str):
+        self.logger.error(message)
 
-    def critical(self, message: str, **kwargs):
-        self.logger.critical(f"{message} | {kwargs}" if kwargs else message)
-        self._send_alert(message, **kwargs)
-
-    def _send_alert(self, message: str, **kwargs):
-        """Отправка алерта при критической ошибке"""
-        alert_msg = f"🚨 КРИТИЧЕСКАЯ ОШИБКА: {message} | {kwargs}"
-        self.logger.critical(f"АЛЕРТ: {alert_msg}")
+    def critical(self, message: str):
+        self.logger.critical(message)
 
     def setup_sentry(self, dsn: str = None):
         """Интеграция с Sentry для мониторинга ошибок (базово)"""

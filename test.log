@@ -1,0 +1,1221 @@
+2026-06-22 21:52:42 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:52:42 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:52:42 - SFMShop - INFO - Test info message
+2026-06-22 21:52:42 - SFMShop - INFO - Test info message
+2026-06-22 21:52:42 - SFMShop - INFO - Test info message
+2026-06-22 21:52:42 - SFMShop - WARNING - Test warning message
+2026-06-22 21:52:42 - SFMShop - WARNING - Test warning message
+2026-06-22 21:52:42 - SFMShop - WARNING - Test warning message
+2026-06-22 21:52:42 - SFMShop - WARNING - Test warning message
+2026-06-22 21:52:42 - SFMShop - ERROR - Test error message
+2026-06-22 21:52:42 - SFMShop - ERROR - Test error message
+2026-06-22 21:52:42 - SFMShop - ERROR - Test error message
+2026-06-22 21:52:42 - SFMShop - ERROR - Test error message
+2026-06-22 21:52:42 - SFMShop - ERROR - Test error message
+2026-06-22 21:52:42 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:52:42 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:52:42 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:52:42 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:52:42 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:52:42 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:52:42 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:52:42 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:52:42 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:52:42 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:52:42 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:52:42 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:52:42 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:52:42 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:52:42 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:53:37 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:53:37 - SFMShop - INFO - Test info message
+2026-06-22 21:53:37 - SFMShop - INFO - Test info message
+2026-06-22 21:53:37 - SFMShop - INFO - Test info message
+2026-06-22 21:53:37 - SFMShop - WARNING - Test warning message
+2026-06-22 21:53:37 - SFMShop - WARNING - Test warning message
+2026-06-22 21:53:37 - SFMShop - WARNING - Test warning message
+2026-06-22 21:53:37 - SFMShop - WARNING - Test warning message
+2026-06-22 21:53:37 - SFMShop - ERROR - Test error message
+2026-06-22 21:53:37 - SFMShop - ERROR - Test error message
+2026-06-22 21:53:37 - SFMShop - ERROR - Test error message
+2026-06-22 21:53:37 - SFMShop - ERROR - Test error message
+2026-06-22 21:53:37 - SFMShop - ERROR - Test error message
+2026-06-22 21:53:37 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:53:37 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:53:37 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:53:37 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:53:37 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:53:37 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:53:37 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:53:37 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:53:37 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:53:37 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:53:37 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:53:37 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:53:37 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1/full
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1/full
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1/full
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1/full
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1/full
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1/full
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1/full
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: name 'httpx' is not defined
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: name 'httpx' is not defined
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: name 'httpx' is not defined
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: name 'httpx' is not defined
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: name 'httpx' is not defined
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: name 'httpx' is not defined
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: name 'httpx' is not defined
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 121, in update_product
+    PUT /api/v1/products/{product_id}
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 121, in update_product
+    PUT /api/v1/products/{product_id}
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 121, in update_product
+    PUT /api/v1/products/{product_id}
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 121, in update_product
+    PUT /api/v1/products/{product_id}
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 121, in update_product
+    PUT /api/v1/products/{product_id}
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 121, in update_product
+    PUT /api/v1/products/{product_id}
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 121, in update_product
+    PUT /api/v1/products/{product_id}
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=test
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=test
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=test
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=test
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=test
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=test
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=test
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:53:37 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:53:37 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:53:37 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:54:15 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:54:15 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:54:15 - SFMShop - INFO - Test info message
+2026-06-22 21:54:15 - SFMShop - INFO - Test info message
+2026-06-22 21:54:15 - SFMShop - INFO - Test info message
+2026-06-22 21:54:15 - SFMShop - WARNING - Test warning message
+2026-06-22 21:54:15 - SFMShop - WARNING - Test warning message
+2026-06-22 21:54:15 - SFMShop - WARNING - Test warning message
+2026-06-22 21:54:15 - SFMShop - WARNING - Test warning message
+2026-06-22 21:54:15 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:15 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:15 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:15 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:15 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:15 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:15 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:15 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:15 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:15 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:15 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:15 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:15 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:15 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:15 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:15 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:15 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:15 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:15 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:15 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:54:15 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:54:15 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:54:15 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:54:15 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:54:15 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:54:15 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:54:36 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:54:36 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:54:36 - SFMShop - INFO - Test info message
+2026-06-22 21:54:36 - SFMShop - INFO - Test info message
+2026-06-22 21:54:36 - SFMShop - INFO - Test info message
+2026-06-22 21:54:36 - SFMShop - WARNING - Test warning message
+2026-06-22 21:54:36 - SFMShop - WARNING - Test warning message
+2026-06-22 21:54:36 - SFMShop - WARNING - Test warning message
+2026-06-22 21:54:36 - SFMShop - WARNING - Test warning message
+2026-06-22 21:54:36 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:36 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:36 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:36 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:36 - SFMShop - ERROR - Test error message
+2026-06-22 21:54:36 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:36 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:36 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:36 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:36 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:36 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:54:36 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:36 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:36 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:36 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:36 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:36 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:36 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 0, 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 16, in get_products
+    GET /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 61, in get_product
+    GET /api/v1/products/{product_id}
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - ERROR - ❌ Error: 1 validation error:
+  {'type': 'missing', 'loc': ('response', 'created_at'), 'msg': 'Field required', 'input': {'id': 1, 'name': 'Test', 'price': 100, 'stock': 10, 'category': 'test', 'description': 'desc'}}
+
+  File "C:\Users\Priceless\SFMShop\src\api\routes\products.py", line 90, in create_product
+    POST /api/v1/products/
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:36 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:54:36 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.008s
+2026-06-22 21:54:36 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.008s
+2026-06-22 21:54:36 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.008s
+2026-06-22 21:54:36 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.008s
+2026-06-22 21:54:36 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.008s
+2026-06-22 21:54:36 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.008s
+2026-06-22 21:54:36 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.008s
+2026-06-22 21:55:25 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:55:25 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:55:25 - SFMShop - INFO - Test info message
+2026-06-22 21:55:25 - SFMShop - INFO - Test info message
+2026-06-22 21:55:25 - SFMShop - INFO - Test info message
+2026-06-22 21:55:25 - SFMShop - WARNING - Test warning message
+2026-06-22 21:55:25 - SFMShop - WARNING - Test warning message
+2026-06-22 21:55:25 - SFMShop - WARNING - Test warning message
+2026-06-22 21:55:25 - SFMShop - WARNING - Test warning message
+2026-06-22 21:55:25 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:25 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:25 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:25 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:25 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:25 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:25 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:25 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:25 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:25 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:25 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:25 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:25 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:25 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:25 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:25 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:25 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:25 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:25 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:25 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:55:58 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:55:58 - SFMShop - INFO - Test info message
+2026-06-22 21:55:58 - SFMShop - INFO - Test info message
+2026-06-22 21:55:58 - SFMShop - INFO - Test info message
+2026-06-22 21:55:58 - SFMShop - WARNING - Test warning message
+2026-06-22 21:55:58 - SFMShop - WARNING - Test warning message
+2026-06-22 21:55:58 - SFMShop - WARNING - Test warning message
+2026-06-22 21:55:58 - SFMShop - WARNING - Test warning message
+2026-06-22 21:55:58 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:58 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:58 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:58 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:58 - SFMShop - ERROR - Test error message
+2026-06-22 21:55:58 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:58 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:58 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:58 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:58 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:58 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:55:58 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:58 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:58 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:58 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:58 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:58 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:58 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:58 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:55:58 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:56:16 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:56:16 - SFMShop - INFO - Test info message
+2026-06-22 21:56:16 - SFMShop - INFO - Test info message
+2026-06-22 21:56:16 - SFMShop - INFO - Test info message
+2026-06-22 21:56:16 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:16 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:16 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:16 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:16 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:16 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:16 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:16 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:16 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:16 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:16 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:16 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:16 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:16 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:16 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:16 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:16 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:16 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:16 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:16 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:16 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:16 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:16 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:16 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:56:28 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:56:28 - SFMShop - INFO - Test info message
+2026-06-22 21:56:28 - SFMShop - INFO - Test info message
+2026-06-22 21:56:28 - SFMShop - INFO - Test info message
+2026-06-22 21:56:28 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:28 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:28 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:28 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:28 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:28 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:28 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:28 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:28 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:28 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:28 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:28 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:28 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:28 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:28 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:28 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:28 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:28 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:28 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:28 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:28 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:28 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:28 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:28 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:56:56 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:56:56 - SFMShop - INFO - Test info message
+2026-06-22 21:56:56 - SFMShop - INFO - Test info message
+2026-06-22 21:56:56 - SFMShop - INFO - Test info message
+2026-06-22 21:56:56 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:56 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:56 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:56 - SFMShop - WARNING - Test warning message
+2026-06-22 21:56:56 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:56 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:56 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:56 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:56 - SFMShop - ERROR - Test error message
+2026-06-22 21:56:56 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:56 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:56 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:56 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:56 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:56 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:56:56 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:56 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:56 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:56 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:56 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:56 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:56 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:56 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:56:56 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:57:33 - SFMShop - DEBUG - Test debug message
+2026-06-22 21:57:33 - SFMShop - INFO - Test info message
+2026-06-22 21:57:33 - SFMShop - INFO - Test info message
+2026-06-22 21:57:33 - SFMShop - INFO - Test info message
+2026-06-22 21:57:33 - SFMShop - WARNING - Test warning message
+2026-06-22 21:57:33 - SFMShop - WARNING - Test warning message
+2026-06-22 21:57:33 - SFMShop - WARNING - Test warning message
+2026-06-22 21:57:33 - SFMShop - WARNING - Test warning message
+2026-06-22 21:57:33 - SFMShop - ERROR - Test error message
+2026-06-22 21:57:33 - SFMShop - ERROR - Test error message
+2026-06-22 21:57:33 - SFMShop - ERROR - Test error message
+2026-06-22 21:57:33 - SFMShop - ERROR - Test error message
+2026-06-22 21:57:33 - SFMShop - ERROR - Test error message
+2026-06-22 21:57:33 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:57:33 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:57:33 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:57:33 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:57:33 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:57:33 - SFMShop - CRITICAL - Test critical message
+2026-06-22 21:57:33 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:57:33 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:57:33 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:57:33 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:57:33 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:57:33 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:57:33 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.002s
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 401 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:57:33 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 21:57:33 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - DEBUG - Test debug message
+2026-06-22 22:00:48 - SFMShop - DEBUG - Test debug message
+2026-06-22 22:00:48 - SFMShop - INFO - Test info message
+2026-06-22 22:00:48 - SFMShop - INFO - Test info message
+2026-06-22 22:00:48 - SFMShop - INFO - Test info message
+2026-06-22 22:00:48 - SFMShop - WARNING - Test warning message
+2026-06-22 22:00:48 - SFMShop - WARNING - Test warning message
+2026-06-22 22:00:48 - SFMShop - WARNING - Test warning message
+2026-06-22 22:00:48 - SFMShop - WARNING - Test warning message
+2026-06-22 22:00:48 - SFMShop - ERROR - Test error message
+2026-06-22 22:00:48 - SFMShop - ERROR - Test error message
+2026-06-22 22:00:48 - SFMShop - ERROR - Test error message
+2026-06-22 22:00:48 - SFMShop - ERROR - Test error message
+2026-06-22 22:00:48 - SFMShop - ERROR - Test error message
+2026-06-22 22:00:48 - SFMShop - CRITICAL - Test critical message
+2026-06-22 22:00:48 - SFMShop - CRITICAL - Test critical message
+2026-06-22 22:00:48 - SFMShop - CRITICAL - Test critical message
+2026-06-22 22:00:48 - SFMShop - CRITICAL - Test critical message
+2026-06-22 22:00:48 - SFMShop - CRITICAL - Test critical message
+2026-06-22 22:00:48 - SFMShop - CRITICAL - Test critical message
+2026-06-22 22:00:48 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 22:00:48 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 22:00:48 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 22:00:48 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 22:00:48 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 22:00:48 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 22:00:48 - SFMShop - INFO - Sentry DSN не указан, мониторинг отключен
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/ - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?page=1&limit=10
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?page=1&limit=10
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?page=1&limit=10
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?page=1&limit=10
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?page=1&limit=10
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?page=1&limit=10
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?page=1&limit=10
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?page=1&limit=10 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?page=1&limit=10 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?page=1&limit=10 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?page=1&limit=10 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?page=1&limit=10 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?page=1&limit=10 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?page=1&limit=10 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=electronics
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=electronics
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=electronics
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=electronics
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=electronics
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=electronics
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/?category=electronics
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?category=electronics - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?category=electronics - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?category=electronics - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?category=electronics - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?category=electronics - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?category=electronics - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/?category=electronics - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 GET http://testserver/api/v1/products/999
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 GET http://testserver/api/v1/products/999 - Status: 404 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 POST http://testserver/api/v1/products/
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 201 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 201 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 201 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 201 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 201 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 201 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 POST http://testserver/api/v1/products/ - Status: 201 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 PUT http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 PUT http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 PUT http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 PUT http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 PUT http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 PUT http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 PUT http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 PUT http://testserver/api/v1/products/1 - Status: 200 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📥 DELETE http://testserver/api/v1/products/1
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
+2026-06-22 22:00:48 - SFMShop - INFO - 📤 DELETE http://testserver/api/v1/products/1 - Status: 204 - Time: 0.001s
