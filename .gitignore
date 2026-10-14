@@ -7,3 +7,10 @@ __pycache__/
 .coverage
 *.pyc
 app.log
+
+# IDE
+.idea/
+.vscode/
+
+# Логи
+*.log
